@@ -1,19 +1,48 @@
 # Incodevision_DataScience_Internship
 
-#Data Cleaning and Preprocessing Pipeline
-  This project was completed as part of my Data Science Internship at @IncodeVision.
-#Project Overview
-  The goal of this task was to clean a raw "Student Internship Dataset" that contained several inconsistencies, missing values, and duplicate records. Clean data is the foundation of any successful data science       project.
-#Tech Stack
-  Language: Python
-  Libraries: Pandas, NumPy
-  Tool: Jupyter Notebook
-#Key Steps Performed
-  1. Identifying Missing Values: Used .isnull().sum() to locate gaps in the data.
-  2. Data Imputation: Filled missing 'City' entries with "Not Disclosed" and 'Department' with "General".
-  3. Duplicate Removal: Identified and removed duplicate rows to maintain data integrity.
-  4. Standardization: Converted text data to a consistent format and cleaned column headers.
-#File Structure
-  1_Internship_Data_Cleaning.ipynb: The main Python script with the cleaning logic.
-  1_internship_data_csv.csv: The raw input dataset.
-  Cleaned_Data_Final.csv: The final processed and clean dataset.
+# Data Cleaning & Preprocessing Project
+
+## 📌 Project Overview
+This project focuses on cleaning and preprocessing a real-world dataset using Python and Pandas.  
+The goal was to transform raw data into a clean dataset ready for analysis.
+
+## 🧠 Problem Statement
+Datasets often have:
+- Missing values  
+- Duplicate records  
+- Inconsistent data formats  
+
+These issues make analysis difficult, so we applied data cleaning techniques to fix them.
+
+## 🛠️ Tools & Technologies
+- Python  
+- Pandas  
+- NumPy  
+- Jupyter Notebook  
+
+## 📊 Key Tasks Performed
+1. Loaded raw dataset (`.csv`)  
+2. Identified and handled missing values  
+3. Removed duplicate entries  
+4. Standardized formats (dates, strings)  
+5. Exported cleaned data
+
+## 📁 Dataset
+Source: Provided as internship task (or mention if from Kaggle / upload link)  
+*Include a sample preview or link if possible.*
+
+## 🚀 Results
+- Cleaned dataset exported as `cleaned_dataset.csv`  
+- Ready for analysis / modelling  
+- Improved data quality and consistency
+
+## 📍 How to Run
+1. Clone repository  
+2. Open Jupyter Notebook  
+3. Run each cell step by step  
+4. Results will generate cleaned dataset
+
+## 📌 Learning Outcome
+- Learned real-world data preprocessing techniques  
+- Improved Pandas skills  
+- Gained hands-on with data cleaning workflows
