@@ -1,6 +1,4 @@
-# Incodevision_DataScience_Internship
-
-# Data Cleaning & Preprocessing Project
+# Incodevision_DataScience_Internship     Data Cleaning & Preprocessing Project
 
 ## 📌 Project Overview
 This project focuses on cleaning and preprocessing a real-world dataset using Python and Pandas.  
