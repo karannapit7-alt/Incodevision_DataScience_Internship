@@ -34,13 +34,13 @@ Source: Provided as internship task (or mention if from Kaggle / upload link)
 - Ready for analysis / modelling  
 - Improved data quality and consistency
 
-## 📍 How to Run
+## How to Run
 1. Clone repository  
 2. Open Jupyter Notebook  
 3. Run each cell step by step  
 4. Results will generate cleaned dataset
 
-## 📌 Learning Outcome
+##  Learning Outcome
 - Learned real-world data preprocessing techniques  
 - Improved Pandas skills  
 - Gained hands-on with data cleaning workflows
