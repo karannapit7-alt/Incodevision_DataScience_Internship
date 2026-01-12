@@ -25,7 +25,7 @@ These issues make analysis difficult, so we applied data cleaning techniques to 
 4. Standardized formats (dates, strings)  
 5. Exported cleaned data
 
-## 📁 Dataset
+## Dataset
 Source: Provided as internship task (or mention if from Kaggle / upload link)  
 *Include a sample preview or link if possible.*
 
