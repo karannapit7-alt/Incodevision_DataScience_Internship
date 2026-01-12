@@ -29,7 +29,7 @@ These issues make analysis difficult, so we applied data cleaning techniques to 
 Source: Provided as internship task (or mention if from Kaggle / upload link)  
 *Include a sample preview or link if possible.*
 
-## 🚀 Results
+##  Results
 - Cleaned dataset exported as `cleaned_dataset.csv`  
 - Ready for analysis / modelling  
 - Improved data quality and consistency
