@@ -18,7 +18,7 @@ These issues make analysis difficult, so we applied data cleaning techniques to 
 - NumPy  
 - Jupyter Notebook  
 
-## 📊 Key Tasks Performed
+## Key Tasks Performed
 1. Loaded raw dataset (`.csv`)  
 2. Identified and handled missing values  
 3. Removed duplicate entries  
