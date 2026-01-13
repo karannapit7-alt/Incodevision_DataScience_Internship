@@ -12,7 +12,7 @@ Datasets often have:
 
 These issues make analysis difficult, so we applied data cleaning techniques to fix them.
 
-## 🛠️ Tools 
+## Tools 
 - Python  
 - Pandas  
 - NumPy  
