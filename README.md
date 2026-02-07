@@ -2,7 +2,7 @@
 
 
 # 🚀 Project Overview
-This project focuses on cleaning, preprocessing, and performing Exploratory Data Analysis (EDA) on a real-world dataset using *Python*. The goal was to transform raw data into a clean, analyzed format ready for business insights.
+This project focuses on cleaning, preprocessing, and performing Exploratory Data Analysis (EDA) on a real-world dataset using *Python. The goal was to transform raw data into a clean, analyzed format ready for business insights.
 
 # 🛠️ Tools Used
 1. Python: Core programming language.
