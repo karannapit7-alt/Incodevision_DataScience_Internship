@@ -1,7 +1,7 @@
 # Incodevision_DataScience_Internship: Data Cleaning & EDA Project.
 
 
-# 🚀 Project Overview
+# 🚀 Project Overview.
 This project focuses on cleaning, preprocessing, and performing Exploratory Data Analysis (EDA) on a real-world dataset using Python. The goal was to transform raw data into a clean analyzed format ready for business insights.
 
 # 🛠️ Tools Used.
