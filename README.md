@@ -11,9 +11,9 @@ This project focuses on cleaning, preprocessing, and performing Exploratory Data
 4. Matplotlib: For data visualization.
 5. Jupyter Notebook: Development environment.
 
-# 📋 Key Tasks Performed.
+# Key Tasks Performed.
 
-# Task 01: Data Cleaning & Preprocessing
+# Project 01: Data Cleaning & Preprocessing
 1. Loaded Raw Data: Processed CSV files to start the analysis.
 2. Handled Missing Values: Identified and filled/dropped null values to ensure data quality.
 3. Removed Duplicates: Cleaned the dataset by removing redundant entries.
