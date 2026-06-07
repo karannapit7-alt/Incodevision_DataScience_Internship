@@ -19,7 +19,7 @@ This project focuses on cleaning, preprocessing, and performing Exploratory Data
 3. Removed Duplicates: Cleaned the dataset by removing redundant entries.
 4. Standardized Formats: Corrected data types (Dates, Strings) for consistency.
 
-# Task 02: Exploratory Data Analysis (EDA)
+# Project 02: Exploratory Data Analysis (EDA)
 1. Statistical Summary: Analyzed mean, median, and distribution of the data.
 2. Data Visualization: Created charts to extract insights and identify patterns.
 3. Correlation Analysis: Found relationships between different data variables.
