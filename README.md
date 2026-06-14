@@ -13,7 +13,7 @@ This project focuses on cleaning, preprocessing, and performing Exploratory Data
 
 # Key Tasks Performed.
 
-# Project 01: Data Cleaning & Preprocessing
+# Project 01: Data Cleaning & Preprocessing.
 1. Loaded Raw Data: Processed CSV files to start the analysis.
 2. Handled Missing Values: Identified and filled/dropped null values to ensure data quality.
 3. Removed Duplicates: Cleaned the dataset by removing redundant entries.
